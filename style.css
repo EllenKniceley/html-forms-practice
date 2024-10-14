@@ -1,0 +1,16 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+textarea {
+  margin: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 150px;
+}
